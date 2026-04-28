@@ -31,7 +31,7 @@ class pattern4 {
             }
 
             if (i <= n / 2) {
-                star-;
+                star--;
                 space += 2;
             } else {
                 star++;
