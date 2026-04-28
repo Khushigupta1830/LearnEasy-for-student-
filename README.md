@@ -1,1 +1,2 @@
-# LearnEasy-for-student-
+Pattern Questions 
+hello everyone , here are all the basic and some important Pattern questions which have been solved in the most optimal way ...
