@@ -16,9 +16,21 @@ class Main{
                  System.out.print("*\t");
             }
                 space++;
-               // star--;
+               //star--;
 
              System.out.println("\t");
         }
     }
 }
+
+
+
+
+
+// output 
+
+// * * * * *
+//     * * * * *
+//         * * * * *
+//             * * * * *
+//                 * * * * *
